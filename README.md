@@ -1,0 +1,1 @@
+# sharedarraybuffer-without-use-server-COOP-and-COEP
